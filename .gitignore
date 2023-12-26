@@ -1,0 +1,10 @@
+error.log
+*.log
+abc/
+*.cpp
+hello world
+Jay Patel
+
+This is a git ignore files which contains the names of files that should be ignored
+
+some changes
